@@ -13,18 +13,18 @@ zoho, amazon DSA question with solutions
 # TotalSumOfString:
 
 1. input = ab
-   output = 3 ..ex: a=1, b=2 total 1+2=3
+2. output = 3 ..ex: a=1, b=2 total 1+2=3
 
 # maxletter:
 
 1. input = Hello
-   output = L. ex: return the max repeated letter in string. in hello = L is max letter
+2. output = L. ex: return the max repeated letter in string. in hello = L is max letter
 
 
 # MaxNumberInList:
 
 1. input = [1,2,2,3]
-   output = L. ex: return the max repeated number in list. in [1,2,2,3] = 2 is max number repeated
+2. output = L. ex: return the max repeated number in list. in [1,2,2,3] = 2 is max number repeated
  
  
 # SumOfDigit:
